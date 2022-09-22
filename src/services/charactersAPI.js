@@ -2,7 +2,7 @@ import axios from 'axios';
 
 require('dotenv/config');
 
-// const { REACT_APP_URL } = process.env;
+// const { REACT_APP_URL } = process.env;,
 
 const DEFAULT_TIMEOUT = 30000;
 class CharactersService {
